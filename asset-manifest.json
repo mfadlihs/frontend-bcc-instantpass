@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/frontend-bcc-instantpass/static/css/main.4eefdf19.css",
+    "main.js": "/frontend-bcc-instantpass/static/js/main.cb1cdc4e.js",
+    "static/js/787.06db838d.chunk.js": "/frontend-bcc-instantpass/static/js/787.06db838d.chunk.js",
+    "static/media/7.jpg": "/frontend-bcc-instantpass/static/media/7.ddb137a5e02ef7d03658.jpg",
+    "static/media/4.jpg": "/frontend-bcc-instantpass/static/media/4.d2702dd7e34481761022.jpg",
+    "static/media/5.jpg": "/frontend-bcc-instantpass/static/media/5.d93a41cec2da36e370fe.jpg",
+    "static/media/2.jpg": "/frontend-bcc-instantpass/static/media/2.e9d799bb736ad6eb1de9.jpg",
+    "static/media/1.jpg": "/frontend-bcc-instantpass/static/media/1.77eb7fd98a6956ecc7c5.jpg",
+    "static/media/3.jpg": "/frontend-bcc-instantpass/static/media/3.d5fb9d17bc134c20de69.jpg",
+    "static/media/6.jpg": "/frontend-bcc-instantpass/static/media/6.03c289e7796ee2c99daf.jpg",
+    "static/media/logo.svg": "/frontend-bcc-instantpass/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/frontend-bcc-instantpass/index.html",
+    "main.4eefdf19.css.map": "/frontend-bcc-instantpass/static/css/main.4eefdf19.css.map",
+    "main.cb1cdc4e.js.map": "/frontend-bcc-instantpass/static/js/main.cb1cdc4e.js.map",
+    "787.06db838d.chunk.js.map": "/frontend-bcc-instantpass/static/js/787.06db838d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4eefdf19.css",
+    "static/js/main.cb1cdc4e.js"
+  ]
+}
